@@ -1,5 +1,4 @@
 ## Hi, I'm Martim👋
-<img align="right" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" width="40%">
 
 [![Linkedin: martim-cserra](https://custom-icon-badges.demolab.com/badge/Linkedin-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/martim-cserra/)
 
