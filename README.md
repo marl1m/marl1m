@@ -1,4 +1,4 @@
-## Hi, I'm Martim👋
+## Hello there! I'm Martim 🤠
 
 [![Linkedin: martim-cserra](https://custom-icon-badges.demolab.com/badge/Linkedin-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/martim-cserra/)
 
