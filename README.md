@@ -5,7 +5,7 @@
 
 #### About Me:
 
-- 🎓 I completed my Bachelor's Degree in **Data Science** @ NOVA IMS, specializing.
+- 🎓 I completed my Bachelor's Degree in **Data Science** @ NOVA IMS;
 
 - 📚 I am thrilled about **Machine Learning**, **NLP** and **Data Science**.
 
