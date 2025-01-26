@@ -14,9 +14,9 @@ Feel free to explore my repositories for projects on **machine learning**, **dat
 ### 🌱 What I'm Working On:  
 
 <div align="left">
-    - Tackling real-world **financial risk** challenges through data-driven approaches.  
-    - Exploring **machine learning** and **NLP** for segmentation and classification.  
-    - Building intuitive tools for **data visualization** and insights.
+- Tackling real-world **financial risk** challenges through data-driven approaches.  
+- Exploring **machine learning** and **NLP** for segmentation and classification.  
+- Building intuitive tools for **data visualization** and insights.
 </div>
 
 <p align="right">
