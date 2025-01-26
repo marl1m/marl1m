@@ -1,12 +1,25 @@
 ## Hello there! I'm Martim 🤠
 
-[![Linkedin: martim-cserra](https://custom-icon-badges.demolab.com/badge/Linkedin-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/martim-cserra/)
 
-#### About Me:
+A **Data Scientist** with a passion for transforming complex datasets into actionable insights. I love gathering different types of data that, at first glance, might make no sense. But with the right tools and approach, I uncover powerful insights, develop new methodologies, and improve existing ones to reach their maximum potential.  
 
-- 🎓 I completed my Bachelor's Degree in **Data Science** @ NOVA IMS;
+With expertise in **Python, R, SQL**, and **machine learning**, I thrive at the intersection of analytical rigor and business impact. 
 
-- 📚 I am thrilled about **Machine Learning**, **NLP** and **Data Science**.
+Currently, I'm exploring real-world financial challenges as a **Risk Officer Trainee** at **Bison Bank**, leveraging data science to drive smarter decision-making. I enjoy collaborating across teams, building scalable solutions, and diving into tough data problems to uncover patterns that matter.  
+
+Feel free to explore my repositories for projects on **machine learning**, **data wrangling**, and beyond. Let's connect and create something amazing together! 🚀  
+
+---
+
+### 🌱 What I'm Working On:  
+- Tackling real-world **financial risk** challenges through data-driven approaches.  
+- Exploring **machine learning** and **NLP** for segmentation and classification.  
+- Building intuitive tools for **data visualization** and insights.  
+
+### 🔗 Let's Connect:  
+- [![Linkedin: martim-cserra](https://custom-icon-badges.demolab.com/badge/Linkedin-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/martim-cserra/)
+- Portfolio: [Your Portfolio or Website](#)
+- Email: [martim.c.serra@gmail.com](mailto:your.email@example.com)
 
 
 ### Tools:
