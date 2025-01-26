@@ -1,6 +1,5 @@
 # Hello there! I'm Martim 🤠
 
-
 A **Data Scientist** with a passion for transforming complex datasets into actionable insights. I love gathering different types of data that, at first glance, might make no sense. But with the right tools and approach, I uncover powerful insights, develop new methodologies, and improve existing ones to reach their maximum potential.  
 
 With expertise in **Python, R, SQL**, and **machine learning**, I thrive at the intersection of analytical rigor and business impact. 
@@ -22,8 +21,6 @@ Feel free to explore my repositories for projects on **machine learning, data wr
 <li> Improving my expertise in databases with <strong>SQL</strong> code.</li>
 
 </ul>
-
-
 
 ## 🔗 Let's Connect:  
 - [![Linkedin: martim-cserra](https://custom-icon-badges.demolab.com/badge/Linkedin-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/martim-cserra/)
