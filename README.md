@@ -1,4 +1,4 @@
-## Hello there! I'm Martim 🤠
+# Hello there! I'm Martim 🤠
 
 
 A **Data Scientist** with a passion for transforming complex datasets into actionable insights. I love gathering different types of data that, at first glance, might make no sense. But with the right tools and approach, I uncover powerful insights, develop new methodologies, and improve existing ones to reach their maximum potential.  
@@ -11,7 +11,7 @@ Feel free to explore my repositories for projects on **machine learning**, **dat
 
 --- 
 
-### 🌱 What I'm Working On:  
+## 🌱 What I'm Working On:  
 
 </a></p>
 <img align="right" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif?cid=790b7611tijrnz9axanthqs15u3uc8aceqaya15idq87ayxu&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Excited GIF" width="250" />
@@ -25,7 +25,7 @@ Feel free to explore my repositories for projects on **machine learning**, **dat
 
 
 
-### 🔗 Let's Connect:  
+## 🔗 Let's Connect:  
 - [![Linkedin: martim-cserra](https://custom-icon-badges.demolab.com/badge/Linkedin-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/martim-cserra/)
 - Portfolio: [Your Portfolio or Website](#)
 - Email: [martim.c.serra@gmail.com](mailto:your.email@example.com)
