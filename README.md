@@ -7,7 +7,7 @@ With expertise in **Python, R, SQL**, and **machine learning**, I thrive at the 
 
 Currently, I'm exploring real-world financial challenges as a **Risk Officer Trainee** at **Bison Bank**, leveraging data science to drive smarter decision-making. I enjoy collaborating across teams, building scalable solutions, and diving into tough data problems to uncover patterns that matter.  
 
-Feel free to explore my repositories for projects on **machine learning**, **data wrangling**, and beyond. Let's connect and create something amazing together! 🚀  
+Feel free to explore my repositories for projects on **machine learning, data wrangling**, and beyond. Let's connect and create something amazing together! 🚀  
 
 --- 
 
@@ -17,8 +17,9 @@ Feel free to explore my repositories for projects on **machine learning**, **dat
 <img align="right" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif?cid=790b7611tijrnz9axanthqs15u3uc8aceqaya15idq87ayxu&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Excited GIF" width="250" />
 <ul>
 <li> Tackling real-world <strong> financial risk</strong> challenges through data-driven approaches.</li>
-<li> Exploring <strong>machine learning</strong> and <strong>NLP</strong> for segmentation and classification.</li>
-<li> Building intuitive tools for <strong>data visualization</strong> and insights.</li>
+<li> Exploring <strong>Machine Learning </strong> and <strong>NLP</strong> techniques for segmentation and classification.</li>
+<li> Building intuitive tools for <strong>data automations</strong> and improving processes.</li>
+<li> Improving my expertise in databases with <strong>SQL</strong> code.</li>
 
 </ul>
 
