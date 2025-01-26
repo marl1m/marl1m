@@ -22,6 +22,17 @@ Feel free to explore my repositories for projects on **machine learning**, **dat
 </p>
 
 
+</a></p>
+<img align="right" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif?cid=790b7611tijrnz9axanthqs15u3uc8aceqaya15idq87ayxu&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Excited GIF" width="250" />
+<ul>
+<li> Tackling real-world **financial risk** challenges through data-driven approaches.</li>
+<li> Exploring **machine learning** and **NLP** for segmentation and classification.</li>
+<li> Building intuitive tools for **data visualization** and insights.</li>
+
+</ul>
+
+
+
 
 ### 🔗 Let's Connect:  
 - [![Linkedin: martim-cserra](https://custom-icon-badges.demolab.com/badge/Linkedin-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/martim-cserra/)
