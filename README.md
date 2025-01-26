@@ -17,8 +17,8 @@ Feel free to explore my repositories for projects on **machine learning**, **dat
 <img align="right" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif?cid=790b7611tijrnz9axanthqs15u3uc8aceqaya15idq87ayxu&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Excited GIF" width="250" />
 <ul>
 <li> Tackling real-world <strong> financial risk</strong> challenges through data-driven approaches.</li>
-<li> Exploring **machine learning** and **NLP** for segmentation and classification.</li>
-<li> Building intuitive tools for **data visualization** and insights.</li>
+<li> Exploring <strong>machine learning</strong> and <strong>NLP</strong> for segmentation and classification.</li>
+<li> Building intuitive tools for <strong>data visualization</strong> and insights.</li>
 
 </ul>
 
@@ -26,7 +26,7 @@ Feel free to explore my repositories for projects on **machine learning**, **dat
 
 ## 🔗 Let's Connect:  
 - [![Linkedin: martim-cserra](https://custom-icon-badges.demolab.com/badge/Linkedin-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/martim-cserra/)
-- Portfolio: [Your Portfolio or Website](#)
+- Portfolio:  (Soon to be lauched!!)
 - Email: [martim.c.serra@gmail.com](mailto:your.email@example.com)
 
 
