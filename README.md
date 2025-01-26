@@ -24,11 +24,8 @@ Feel free to explore my repositories for projects on **machine learning, data wr
 
 ## 🔗 Let's Connect:  
 - [![Linkedin: martim-cserra](https://custom-icon-badges.demolab.com/badge/Linkedin-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/martim-cserra/)
-- Portfolio:  (Soon to be lauched!!)
-- Email: [martim.c.serra@gmail.com](mailto:your.email@example.com)
-- 
 - [![Email: martim.c.serra@gmail.com](https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail)](mailto:martim.c.serra@gmail.com)
-
+- Portfolio:  (Soon to be lauched!!) 
 
 
 ### Tools:
