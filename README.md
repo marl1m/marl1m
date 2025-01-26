@@ -9,16 +9,14 @@ Currently, I'm exploring real-world financial challenges as a **Risk Officer Tra
 
 Feel free to explore my repositories for projects on **machine learning**, **data wrangling**, and beyond. Let's connect and create something amazing together! 🚀  
 
----
+--- 
 
 ### 🌱 What I'm Working On:  
 
 <div align="left">
-  <p>
     - Tackling real-world **financial risk** challenges through data-driven approaches.  
     - Exploring **machine learning** and **NLP** for segmentation and classification.  
     - Building intuitive tools for **data visualization** and insights.
-  </p>
 </div>
 
 <p align="right">
