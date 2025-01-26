@@ -13,11 +13,11 @@ Feel free to explore my repositories for projects on **machine learning**, **dat
 
 ### 🌱 What I'm Working On:  
 
-
+<!-- 
 - Tackling real-world **financial risk** challenges through data-driven approaches.  
 - Exploring **machine learning** and **NLP** for segmentation and classification.  
 - Building intuitive tools for **data visualization** and insights.
-
+-->
 
 <p align="right">
   <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif?cid=790b7611tijrnz9axanthqs15u3uc8aceqaya15idq87ayxu&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Excited GIF" width="250">
