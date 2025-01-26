@@ -28,7 +28,7 @@ Feel free to explore my repositories for projects on **machine learning, data wr
 - Portfolio:  (Soon to be lauched!!) 
 
 
-## 🛠️ Tools:
+## 🛠️ Tools I use daily:
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
