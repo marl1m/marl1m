@@ -4,7 +4,7 @@ A **Data Scientist** with a passion for transforming complex datasets into actio
 
 With expertise in **Python, R, SQL**, and **machine learning**, I thrive at the intersection of analytical rigor and business impact. 
 
-Currently, I'm exploring real-world financial challenges as a **Risk Officer Trainee** at **Bison Bank**, leveraging data science to drive smarter decision-making. I enjoy collaborating across teams, building scalable solutions, and diving into tough data problems to uncover patterns that matter.  
+I am currently looking for new challenges that use data science to drive smarter decision making. I enjoy collaborating across teams, building scalable solutions and diving into hard data problems to uncover patterns that matter.  
 
 Feel free to explore my repositories for projects on **machine learning, process optimization**, and beyond. Let's connect and create something amazing together! 🚀  
 
