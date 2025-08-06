@@ -15,10 +15,11 @@ Feel free to explore my repositories for projects on **machine learning, process
 </a></p>
 <img align="right" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif?cid=790b7611tijrnz9axanthqs15u3uc8aceqaya15idq87ayxu&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Excited GIF" width="150" />
 <ul>
-<li> Tackling real-world <strong> financial risk</strong> challenges through data-driven approaches.</li>
+<li> Creating and developing digital solutions through data-driven approaches. /li>
 <li> Exploring <strong>Machine Learning </strong> and <strong>NLP</strong> techniques for segmentation and classification.</li>
 <li> Building intuitive tools for <strong>data automations</strong> and improving processes.</li>
 <li> Improving my expertise in databases with <strong>SQL</strong> code.</li>
+<li> Learning how to handle big data source within <strong>Azure Databricks</strong> and <strong>PySpark</strong>.</li>
 
 </ul>
 
